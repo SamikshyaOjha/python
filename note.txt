@@ -1,0 +1,1 @@
+C:\Users\hario\AppData\Local\Programs\Python\Python314\python.exe c:/Users/hario/OneDrive/Desktop/python/day3/day_4/exercise_noteapp.py
